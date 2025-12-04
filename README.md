@@ -78,7 +78,7 @@ This allows analysis of how much value each order contributes on average across 
 * **Bar charts** – Sales by State, Customers, Sub-Category
 * **Donut charts** – Category-wise & Payment Mode distribution
 * **Column chart** – Profit by Month
-* **Dynamic Slicers** – Quarter, Category, and Filter options
+* **Dynamic Slicers** – Quarter, region options
 
 These visuals help identify high-performing states (e.g., Maharashtra), best-selling subcategories (Printers, Bookcases), and preferred payment modes (e.g., COD).
 
