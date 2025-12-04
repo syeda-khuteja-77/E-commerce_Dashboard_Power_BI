@@ -80,8 +80,3 @@ This allows analysis of how much value each order contributes on average across 
 * **Column chart** – Profit by Month
 * **Dynamic Slicers** – Quarter, region options
 
-These visuals help identify high-performing states (e.g., Maharashtra), best-selling subcategories (Printers, Bookcases), and preferred payment modes (e.g., COD).
-
----
-
-Just tell me!
